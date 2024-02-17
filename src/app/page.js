@@ -35,16 +35,17 @@ export default function Home() {
             setIsHovered(false);
           }}
         >
-          A visual designer - with skills that haven't been replaced by A.I
-          (yet) - making good shit only if the paycheck is equally good.
+          {" "}
+          Hi, my name is Mohamad Zubi, I Build things for the web. I’m a
+          software engineer specialized in building Web & Mobile Apps.
         </p>
       </motion.div>
 
       <div className="w-full h-full flex items-center justify-center text-afa18f text-4xl leading-16 cursor-default">
         <p className="w-[1000px] p-[30xp] text-gray-400 font-bold text-6xl">
-          I'm a <span className="text-red-500">selectively skilled</span>{" "}
-          product designer with strong focus on producing high quality &
-          impactful digital experience.
+          I'm a <span className="text-red-500">Mohamad Zubi</span> My main focus
+          these days is building accessible, inclusive digital experiences for
+          my clients.
         </p>
       </div>
     </main>
